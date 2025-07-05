@@ -116,5 +116,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions, feel free to reach out:
 
 - **Email**: [enikepallivarun16@gmail.com](mailto:enikepallivarun16@gmail.com)
-- **LinkedIn**: [Varun Enikepalli](https://www.linkedin.com/in/varun-enikepalli-a30588276/)
+- **LinkedIn**: [VarunEnikepalli](https://www.linkedin.com/in/varun-enikepalli-a30588276/)
 - **GitHub**: [Varun Enikepalli](https://github.com/Varun191103556)
