@@ -1,7 +1,7 @@
 
-# CodeIt - Search Engine for Coding Problems
+# Codeverse - Search Engine for Coding Problems
 
-CodeIt is a high-performance search engine built using Node.js, Express, and EJS. It is designed to help users find solutions to coding problems from popular platforms such as LeetCode, Codeforces, and InterviewBit. The search engine incorporates advanced natural language processing (NLP) techniques to ensure relevant results and provides a user-friendly interface for query submission.
+Codeverse is a high-performance search engine built using Node.js, Express, and EJS. It is designed to help users find solutions to coding problems from popular platforms such as LeetCode, Codeforces, and InterviewBit. The search engine incorporates advanced natural language processing (NLP) techniques to ensure relevant results and provides a user-friendly interface for query submission.
 
 ## Features
 
@@ -26,7 +26,7 @@ CodeIt is a high-performance search engine built using Node.js, Express, and EJS
 ## Project Structure
 
 ```
-CODE-IT
+CODEVERSE
 │   ├── node_modules/
 │   ├── Problems/           # Directory containing scraped coding problems.
 │   ├── public/             # Public assets (CSS, JS, images).
@@ -46,7 +46,7 @@ CODE-IT
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Srikar4510/CodeIt.git
+   git clone https://github.com/Varun191103556/Codeverse.git
    ```
    
 2. Navigate to the project directory:
@@ -115,6 +115,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions, feel free to reach out:
 
-- **Email**: [srikarambula.1924@gmail.com](mailto:srikarambula.1924@gmail.com)
-- **LinkedIn**: [Srikar Ambula](https://www.linkedin.com/in/srikar-ambula-66a647277/)
-- **GitHub**: [Srikar4510](https://github.com/Srikar4510)
+- **Email**: [enikepallivarun16@gmail.com](mailto:enikepallivarun16@gmail.com)
+- **LinkedIn**: [Varun Enikepalli](https://www.linkedin.com/in/varun-enikepalli-a30588276/)
+- **GitHub**: [Varun Enikepalli](https://github.com/Varun191103556)
