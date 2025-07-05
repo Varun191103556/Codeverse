@@ -51,7 +51,7 @@ CODEVERSE
    
 2. Navigate to the project directory:
    ```bash
-   cd CodeIt
+   cd Codeverse
    ```
 
 3. Install the required dependencies:
